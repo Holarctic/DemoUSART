@@ -34,7 +34,7 @@ DemoUSART-main/
 4. Flash the binary to your target PIC microcontroller.  
 5. Connect a USB-to-Serial adapter and monitor the output at the specified baud rate.  
 
-## Use in CV/Portfolio
+## Skills
 
 This project demonstrates:
 - Familiarity with embedded C programming  
